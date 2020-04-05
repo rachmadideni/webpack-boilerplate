@@ -41,7 +41,7 @@ Here are our the most common options used to justify content: flex-start | flex-
 
 space-between distributes items so that the first item is flush with the start and the last is flush with the end. space-around is similar but items have a half-size space on either end.
 
-### Flex Align Items
+### Align Items
 align-items allows us to align items along the cross axis (see terminology diagram above). This allows content to be positioned in many different ways using justify content and align items together.
 
 Here are the most common options used to align items: flex-start | flex-end | center | baseline | stretch
